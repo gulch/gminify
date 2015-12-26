@@ -1,0 +1,23 @@
+{
+  "name": "gulch/gminify",
+  "description": "Package for minify HTML, JS, CSS code",
+  "keywords": ["php","minify","css","js","html","wpo","webperf","web performance"],
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/gulch/gminify/",
+  "authors": [
+    {
+      "name": "gulch",
+      "email": "contact@gulch.in.ua",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "gulch\\": "src/"
+    }
+  }
+}
