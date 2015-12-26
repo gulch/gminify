@@ -5,7 +5,7 @@ Package for minify HTML, JS, CSS code
 
 You will need [Composer](http://getcomposer.org) installed.
 
-Add to your composer.json file this git repo
+Add to your **composer.json** file this git repo
 ```bash
 "repositories":[
     {
@@ -14,7 +14,7 @@ Add to your composer.json file this git repo
     }
 ]
 ```
-and add to require section
+and add to **require** section
 ```bash
 "require": {
     "gulch/gminify": "dev-master"
