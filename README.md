@@ -10,14 +10,14 @@ Add to your composer.json file this git repo
 "repositories":[
     {
 	      "type": "git",
-	      "url": "http://github.com/gulch/gioptima"
+	      "url": "http://github.com/gulch/gminify"
     }
 ]
 ```
 and add to require section
 ```bash
 "require": {
-    "gulch/gioptima": "dev-master"
+    "gulch/giminify": "dev-master"
 }
 ```
 and finally run
